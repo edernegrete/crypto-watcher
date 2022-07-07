@@ -6,7 +6,7 @@
     "connected-react-router": "6.5.2",
     "create-react-app": "1.4.3",
     "immutable": "4.0.0-rc.12",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nprogress": "0.2.0",
     "prop-types": "15.6.0",
     "react": "16.8.6",
